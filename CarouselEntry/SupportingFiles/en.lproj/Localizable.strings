@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+
+  Created by shishir on 03/11/18.
+  Copyright © 2018 Shishir R Amin. All rights reserved.
+*/
+//Mark :- Common
+
+NEXT = "Next";
+DONE = "Done";
+
+//Mark:- OnBoarding Notification VC
+
+APPLE_HEALTH = "Apple Health111";
+NOTIFICATION_DESCRIPTION = "In hac habitasse platea dictumst. Vivamus adipiscing fermentum quam";
+ALLOW_ACCESS = "Allow Access";
+
+//Mark:- OnBoarding FirstNameVC
+
+FIRST_NAME = "Whats your first name?";
+
+//Mark:- OnBoarding LastNameVC
+
+LAST_NAME = "Whats your last name";
+
+//Mark:- OnBoarding GenderVC
+
+I_AM_A = "I’ am a";
+MALE = "Male";
+FEMALE = "Female";
+
+//Mark:- OnBoarding TellUsAboutYourselfVC
+
+TELL_US_ABOUT_YOURSELF = "Tell us about yourself";
+TELL_US_ABOUT_YOURSELF_DESCRIPTION = "We need the following information to provide more accurate results.";
+HEIGHT = "Height";
+DATE_OF_BIRTH = "Date of Birth";
+WEIGHT = "Weight";
+
+
+
